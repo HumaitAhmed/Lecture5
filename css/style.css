@@ -1,0 +1,35 @@
+.box{
+	width: 100px;
+	height: 20pt;
+}
+.red{
+	background-color: red;
+	margin: 20px 30px;
+	border: 5px solid blue;
+	padding: 50px;
+}
+.box{	
+	width: 100px;
+	height: 20pt;
+}
+.green{
+	background-color: green;
+	margin-right: 30px;
+	border: 5px dashed yellow;
+}
+h1{
+	display: inline;
+}
+h2{
+	display: inline-block;
+}
+h3{
+	color: blue;
+}
+.span{
+	color: green;
+}
+.frame{
+	width: 560px;
+	height: 315px;
+}
